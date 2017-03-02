@@ -1,4 +1,4 @@
-Angular Architecture Guide
+# Angular Architecture Guide
 
 > Work in progress
 
