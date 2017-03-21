@@ -1,5 +1,6 @@
 <h1 align="center">
-<div style="width: 80px; height: 80px;"><img src="https://angular.io/resources/images/logos/angular2/angular.svg"></div>Angular Architecture Guide
+<img width="80" src="https://angular.io/resources/images/logos/angular2/angular.svg">
+Angular Architecture Guide
 </h1>
 <h5 align="center">A cohesive guide for building Angular applications for teams.</h5>
 
