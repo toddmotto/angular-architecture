@@ -1,6 +1,7 @@
-# Angular Architecture Guide
+<h1 align="center">Angular Architecture Guide</h1>
+<h5 align="center">A cohesive guide for building Angular applications for teams.</h5>
 
-> Work in progress
+<p align="center">:warning: Work In Progress :warning:</p>
 
 ## Folder Structure
 
