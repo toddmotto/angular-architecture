@@ -7,10 +7,10 @@
 ```
 index.html
 app/
-│     app.component.scss
-│     app.component.spec.ts
-│     app.component.ts
-│     app.module.ts
+│    app.component.scss
+│    app.component.spec.ts
+│    app.component.ts
+│    app.module.ts
 └──  meal-planner/
    │         meal-planner.module.ts
    │         meal-planner.service.spec.ts
