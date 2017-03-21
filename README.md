@@ -2,7 +2,7 @@
 
 > Work in progress
 
-# Folder Structure
+## Folder Structure
 
 ```
 index.html
