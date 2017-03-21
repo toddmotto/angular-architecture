@@ -13,6 +13,7 @@ app/
 │     app.module.ts
 └──  meal-planner/
    │         meal-planner.module.ts
+   │         meal-planner.service.spec.ts
    │         meal-planner.service.ts
    ├── components/
    │         meal-viewer/
