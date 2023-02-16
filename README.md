@@ -57,3 +57,5 @@ app/
 * Tooling (AoT/Webpack/etc)
 * Build process info (platforms)
 * Resources section
+   * [Angular Developer Roadmap](https://roadmap.sh/angular)
+   
